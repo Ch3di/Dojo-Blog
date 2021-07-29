@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Dojo Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+This is a simple blog app where the user can create and delete blogs.
+This app is the result of a React tutorial made by The Net Ninja.
+Check his Youtube channel: [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ## Available Scripts
 
